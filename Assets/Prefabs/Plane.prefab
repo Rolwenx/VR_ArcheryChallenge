@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 4016804800643921349}
   - component: {fileID: 6877347015695970357}
   - component: {fileID: 625582637232918549}
-  - component: {fileID: 4880011225802501888}
   m_Layer: 0
   m_Name: Plane
   m_TagString: Untagged
@@ -221,19 +220,3 @@ MonoBehaviour:
   m_Teleporting:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &4880011225802501888
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1165722701217890930}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e91300247fa53bb4586d40c10503aabd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  target: {fileID: 8450216125409058557, guid: bd17c1871df5928419fa3af88f90a553, type: 3}
-  level: 
-  spawnInterval: 3
-  maxTargets: 10
