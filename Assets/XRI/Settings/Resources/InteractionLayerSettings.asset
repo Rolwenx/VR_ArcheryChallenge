@@ -21,10 +21,10 @@ MonoBehaviour:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Left Interactable
+  - Left Interactable Ignore Rays
+  - Right Interactable
+  - Right Interactable Ignore Rays
   - 
   - 
   - 
